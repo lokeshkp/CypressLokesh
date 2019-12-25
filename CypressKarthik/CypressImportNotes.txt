@@ -1,0 +1,17 @@
+Cypress Karthik
+
+Day-1
+-----
+    npm install --save-dev cypress      // to install cypress
+    npm cypress open                    // to open cypress
+    npx cypress run --spec C:\Lokesh\CypressWorkSpace\CypressKarthik\cypress\integration\examples\rama1.js // to run cypress from npm command line
+
+Cypress UI Commands (most commonly used)
+    visit()
+    click()
+    type()
+    clear()
+    check()
+    select()
+    get()
+    contains()

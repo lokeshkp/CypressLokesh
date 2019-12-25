@@ -1,0 +1,11 @@
+{
+  "defaultCommandTimeout": 6000,
+  "pageLoadTimeout": 30000,
+  "env": {
+    "url": "http://google.com",
+    "qaUrl": "http://automationpractice.com/index.php",
+    "prodUrl": "https://rahulshettyacademy.com/",
+    "preUat": "http://www.qaclickacademy.com/"
+  },
+  "projectId": "dj2q8z"
+}
