@@ -29,6 +29,5 @@ describe('Verifying XHR request',() =>{
         })
 
         cy.getCookie('user_id').should('have.property','value','133629')
-        cy.getCookie('cuid').should('have.property','value','7CUpCb2I2jMDJ6kYTswgoO')
     })
 })

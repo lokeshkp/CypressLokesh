@@ -15,3 +15,7 @@ Cypress UI Commands (most commonly used)
     select()
     get()
     contains()
+
+Cypress Custom Commands
+-----------------------
+    -- In command.js file if we write any custom function that can be used any where (i.e cy.<functionName>)

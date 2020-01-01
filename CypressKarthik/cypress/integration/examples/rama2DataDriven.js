@@ -3,7 +3,7 @@
 describe('DataDriven test using Cypress fixtures', () => {
 
     before('Login to Application', () => {
-        cy.visit('http://eaapp.somee.com/')
+        cy.visit('/')
         cy.fixture('dataDriven').as('userData')
     })
 
